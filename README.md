@@ -1,14 +1,12 @@
-# Block Homes
+# [Block Homes] DID 및 스마트 컨트랙트 기반 부동산 직거래 BApp
 
-<br/>
-<br/>
+## 🌳 프로젝트 개요
 
-## 🥔 프로젝트 개요
+✅ **프로젝트 이름 : Block-Homes**
 
 ✅ **개발기간**
 <br />
-| 개발 기간 | 2024.04.08 ~ 2024.05.20(6주)|
-| --- | --- |
+📅 2024-04-08(월) ~ 2024-05-20(월)
 
 ✅ **팀원 소개**
 
@@ -21,24 +19,54 @@
 | 오기선 | FE, Contract Deploy          |
 | 정유나 | FE, RealEstateItem           |
 
-## 🌳 프로젝트 일정
+✅ **개발 환경**
+<br>
+<br>
+**BE**
+<br />
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/IntellijIdea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+<br>
 
-    📅 2024-04-08(월) ~ 2024-05-20(월)
+**FE**
+<br />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+<img src="https://img.shields.io/badge/Jotai-764ABC?style=for-the-badge&logo=zustand&logoColor=white">
+<img src="https://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
+
+## 🌳 목차
+
+1️⃣ [📖산출물](#📖-산출물)
+<br />
+2️⃣ [💡프로젝트 특징](#💡프로젝트-특징)
+<br />
+3️⃣ [📱 화면구현](#📱-화면구현)
+<br />
+4️⃣
 
 ## 📖 산출물
 
 ### [🔗발표자료](/docs/발표자료.md)
+
 ### [🔗포팅메뉴얼](/exec/포팅매뉴얼_C203.md)
+
 ### [🔗기능명세서](/docs-design/기능명세서_C203.pdf)
+
 ### [🔗요구사항 정의서](/docs-design/요구사항정의서_C203.pdf)
+
 ### [🔗ABI 명세서](/docs-final/ABI_명세서_C203.pdf)
+
 ### [🔗API 명세서](/docs-final/API_명세서_C203.pdf)
+
 ### [🔗ERD](/docs-final/ERD_C203.png)
+
 ### [🔗시스템아키텍쳐](/docs-final/시스템아키텍쳐_C203.png)
 
-## 🧪주요 기능
+## 💡프로젝트 특징
 
-DID 및 스마트 컨트랙트 기반 부동산 직거래 BApp
+### 🧪 주요 기능
 
 1. klaytn 지갑 생성
 
@@ -56,7 +84,7 @@ DID 및 스마트 컨트랙트 기반 부동산 직거래 BApp
 
 8. 관심 매물 등록 및 조회
 
-## 🔧기술 특이점
+### 🔧 기술 특이점
 
 1. DID 기반 Issuer-Holder-Verifier 구현
 
@@ -93,7 +121,7 @@ DID 및 스마트 컨트랙트 기반 부동산 직거래 BApp
 
 - 256 bit의 작은 key로 RSA와 동일한 보안 레벨 유지
 
-## 🛠프로젝트 특장점
+### 🛠 프로젝트 특장점
 
 1. klaytn 지갑 생성
 
@@ -128,7 +156,7 @@ DID 및 스마트 컨트랙트 기반 부동산 직거래 BApp
 
 - 관심 매물을 등록하고 조회할 수 있어 관심 매물 간의 비교가 빠르게 이루어질 수 있음
 
-## ⛏기술관련 독창점
+### ⛏ 기술관련 독창점
 
 1. Backend의 기능을 최소화한 탈중앙화 BApp
 
@@ -139,3 +167,5 @@ DID 및 스마트 컨트랙트 기반 부동산 직거래 BApp
 4. 인증 및 서명 로직을 통한 위변조 방지 기능 내포
 
 5. 중앙은행 CBDC 발행 시 생겨날 서비스의 Prototype
+
+## 📱 화면구현
