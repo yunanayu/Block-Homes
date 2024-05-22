@@ -14,7 +14,7 @@
 
 | 팀원   | 역할                         |
 | ------ | ---------------------------- |
-| 천세진 | 팀장, BlockChain, BC, DevOps |
+| 천세진 | 팀장, BE, BlockChain, DevOps |
 | 김지현 | BE, BlockChain               |
 | 김현지 | FE, UI/UX, chatting          |
 | 송강산 | FE, 3D/Wallet, DevOps        |
