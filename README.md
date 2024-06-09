@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/Jotai-764ABC?style=for-the-badge&logo=zustand&logoColor=white">
 <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
 
-## 🌳 목차
+<!-- ## 🌳 목차
 
 1️⃣ [📖산출물](#📖-산출물)
 <br />
@@ -47,7 +47,7 @@
 <br />
 3️⃣ [📱 화면구현](#📱-화면구현)
 <br />
-4️⃣
+4️⃣ -->
 
 ## 💡기획배경
 
@@ -239,7 +239,7 @@
 
 - 사용자 지갑의 잔액 확인 가능
 - 사용자가 체결한 부동산 스마트 컨트랙트 조회 가능
-   <img src="assets/임차인거래3.gif" height=430px >
+  <img src="assets/임차인거래3.gif" height=430px >
 
 ## 서비스 기술 특이점
 
